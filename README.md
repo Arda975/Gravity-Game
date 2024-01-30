@@ -1,2 +1,1 @@
-# Gravity-Game
-I made a Gravity Boulder Game in java.
+Integrate the Enigma file into your java project document and then use it.
